@@ -1,0 +1,20 @@
+﻿$PBExportHeader$p_version_manager_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:version_manager.exe,,0,0,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 21.0.0.1506
+CMP:0,0,0,2,0,0,1
+COM:Sodexo BRS
+DES:Appeon Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVS:2.0.0.1
+PVN:2,0,0,1
+FVS:2.0.0.1
+FVN:2,0,0,1
+MAN:0,asInvoker,0
+PBD:version_manager.pbl,,0
+OBJ:C:\GIT\PB2017\VersionManager\version_manager.pbl,version_manager,a
+OBJ:c:\git\pb2017\versionmanager\version_manager.pbl,u_major_version_ctrl,u
+OBJ:c:\git\pb2017\versionmanager\version_manager.pbl,u_minor_version_ctrl,u
+OBJ:c:\git\pb2017\versionmanager\version_manager.pbl,u_version_ctrl_anc,u
+OBJ:c:\git\pb2017\versionmanager\version_manager.pbl,w_main,w
+OBJ:c:\git\pb2017\versionmanager\version_manager.pbl,u_revision_version_ctrl,u

@@ -1,0 +1,8 @@
+﻿$PBExportHeader$str_proxy.srs
+global type str_proxy from structure
+	string		ip
+	string		port
+	string		usr
+	string		pwd
+end type
+
